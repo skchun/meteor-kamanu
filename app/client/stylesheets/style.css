@@ -48,6 +48,13 @@ body {
   background-position: center;
 }
 
+.about{
+  background-image: url("/images/cover-about-eono.jpg");
+  background-size: cover;
+  height: 385px;
+  background-position: center;
+}
+
 .tagline{
   height: 131px;
   background-color: black;
