@@ -27,6 +27,13 @@ body {
   background-position: center;
 }
 
+.pueo{
+  background-image: url("/images/cover-pueo-page.jpg");
+  background-size: cover;
+  height: 385px;
+  background-position: center;
+}
+
 .tagline{
   height: 131px;
   background-color: black;
