@@ -1,3 +1,44 @@
 body {
-  padding-top: 70px;  /* Move body of page below navbar. */
+  padding-top: 81px;  /* Move body of page below navbar. */
+}
+
+.navbar-brand{
+  padding: 0px;
+}
+
+.navbar-inverse{
+  height: 81px;
+  background-image: url("/images/bg-carbon.jpg");
+}
+
+.navbar-inverse .navbar-nav>li>a{
+  font-family: Lucida-Sans, sans-serif;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #e5eddc;
+  text-align: center;
+  width: 8em;
+}
+
+.canoes {
+  background-image: url("/images/pueo-canoes-front.jpg");
+  background-size: cover;
+  height: 385px;
+  background-position: center;
+}
+
+.tagline{
+  height: 131px;
+  background-color: black;
+  text-align: center;
+}
+
+.tagline h2{
+  font-family: Georgia, Times;
+  font-size: 3em;
+  font-color: #666;
+  font-weight: 700;
+  text-align: center;
+  margin: 0px;
+  padding-top: 30px;
 }
