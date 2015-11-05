@@ -21,3 +21,7 @@ Router.route('/pueo', {
 Router.route('/aukahi', {
   name: 'Aukahi'
 });
+
+Router.route('/kamanuv6', {
+  name: 'Kamanu V6'
+});

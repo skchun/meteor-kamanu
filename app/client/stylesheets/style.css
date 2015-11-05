@@ -41,6 +41,13 @@ body {
   background-position: center;
 }
 
+.kamanuv6{
+  background-image: url("/images/cover-v6-page.jpg");
+  background-size: cover;
+  height: 385px;
+  background-position: center;
+}
+
 .tagline{
   height: 131px;
   background-color: black;
